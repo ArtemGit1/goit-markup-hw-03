@@ -107,6 +107,15 @@ body{
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    width: 115px;
+    height: 24px;
+    left: 156px;
+    top: 24px;
 }
 
 .link{
@@ -265,5 +274,17 @@ img{
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
+
+}
+.index-header-nav{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 40px;
     
+    width: 261px;
+    height: 24px;
+    left: 347px;
+    top: 24px;
 }
