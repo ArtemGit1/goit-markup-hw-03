@@ -384,3 +384,7 @@ img{
     display: flex;
     align-items: center;
 }
+.menu-portfolio{
+    display: flex;
+    gap: 40px;
+}
