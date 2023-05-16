@@ -302,4 +302,5 @@ img{
 .header-nav-list{
     display: flex;
     gap: 40px;
+    padding: 24px 0;
 }
