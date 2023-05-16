@@ -137,7 +137,7 @@ body{
     font-size: 16px;
     line-height: 1.5;
     font-size: 16px;
-    padding: 24px 0;
+    padding: 24px 0 24px;
 }
 
 .header-list:focus,
@@ -147,6 +147,8 @@ body{
 
 .header-adress{
     font-style: normal;
+}
+.header-address-list{
     display: flex;
     gap: 40px;
 }
@@ -177,6 +179,10 @@ body{
 }
 .section{
     background-color: #2e2f42;
+    width: 1440px;
+    height: 600px;
+    left: 0px;
+    top: 72px;
 }
 .section-h{
     font-size: 56px;
