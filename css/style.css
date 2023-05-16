@@ -258,5 +258,12 @@ img{
     height: 72px;
     left: 0px;
     top: 0px;  
-    box-sizing: border-box; 
+    box-sizing: border-box;
+    display: flex;
+}
+.container{
+    width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px;
+    
 }
