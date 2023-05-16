@@ -1,6 +1,12 @@
 .h1-section{
     visibility: hidden;
 }
+.index-body{
+width: 1440px;
+height: 2592px;
+
+background: #FFFFFF;
+}
 
 body{
     font-family: 'Roboto', sans-serif;
@@ -238,4 +244,14 @@ body{
 }
 .portfolio-footer{
     background-color: #2e2f42;
+}
+header{
+    box-sizing: border-box;
+    display: flex;
+    
+
+    width: 1440px;
+    height: 72px;
+    left: 0px;
+    top: 0px;
 }
