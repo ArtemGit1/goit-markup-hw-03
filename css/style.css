@@ -374,3 +374,13 @@ img{
 .footer-p{
     max-width: 264px;
 }
+.header-portfolio{
+    border-bottom: 1px solid #e7e9fc;
+}
+.header-div-portfolio{
+    display: flex;
+}
+.header-nav-list-portfolio{
+    display: flex;
+    align-items: center;
+}
