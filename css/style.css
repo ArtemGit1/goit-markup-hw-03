@@ -222,6 +222,7 @@ body{
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    margin-bottom: 8px;
 }
 .section-two-list-p{
     line-height: 1.5;
@@ -328,5 +329,5 @@ img{
     gap: 24px;
 }
 .sec-two-list-li{
-
+    width: calc((100% - 72px) / 4);
 }
