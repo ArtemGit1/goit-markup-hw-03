@@ -314,7 +314,7 @@ img{
     gap: 40px;
 }
 .menu-li-one{
-    padding: 24px 0;
+    padding: 24px 0 24px;
 }
 .sec-two{
     padding: 120px 0;
@@ -324,4 +324,6 @@ img{
     height: 104px;
     left: 156px;
     top: 792px;
+    display: flex;
+    gap: 24px;
 }
