@@ -254,6 +254,7 @@ body{
 }
 .index-footer{
     background-color: #2e2f42;
+    padding: 100px 0;
 }
 .logo-span-two{
     color:#f4f4fd;
@@ -363,5 +364,11 @@ img{
 }
 .section-four-list-p{
     text-align: center;
-    
+}
+.link-footer-index{
+    display: inline-block;
+    margin-bottom: 16px;
+}
+.footer-p{
+    max-width: 264px;
 }
