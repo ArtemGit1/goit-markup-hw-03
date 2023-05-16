@@ -200,6 +200,12 @@ body{
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
+    display: flex;
+    min-width: 169px;
+    height: 56px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
 }
 .section-button:hover,
 .section-button:focus{
@@ -255,6 +261,7 @@ body{
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    max-width: 496px;
 }
 .sec-p{
     font-size: 16px;
@@ -301,6 +308,9 @@ img{
 }
 .header-nav-list{
     display: flex;
+    padding: 24px 0;
     gap: 40px;
+}
+.menu-li-one{
     padding: 24px 0;
 }
