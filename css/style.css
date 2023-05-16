@@ -245,12 +245,18 @@ body{
 .portfolio-footer{
     background-color: #2e2f42;
 }
-header{
-    box-sizing: border-box;
-    display: flex;
+.header-index{
+    border-bottom: 1px solid #E7E9FC;
+    background: #FFFFFF;
+}
 
+img{
+    display: block;
+}
+.header-div{
     width: 1440px;
     height: 72px;
     left: 0px;
-    top: 0px;
+    top: 0px;  
+    box-sizing: border-box; 
 }
