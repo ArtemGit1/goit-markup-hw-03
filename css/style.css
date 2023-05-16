@@ -350,7 +350,7 @@ img{
 }
 .section-fout-list-one{
     border-radius: 0px 0px 4px 4px;
-    width: calc((100% - 72px) / 4);
+    flex-basis: calc((100% - 72px) / 4));
 }
 .sec-four-worker{
     padding: 32px 16px;
@@ -365,7 +365,7 @@ img{
 .section-four-list-p{
     text-align: center;
 }
-.link-footer-index{
+.one-footer-index{
     display: inline-block;
     margin-bottom: 16px;
 }
