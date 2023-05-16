@@ -1,0 +1,241 @@
+.h1-section{
+    visibility: hidden;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+}
+
+.photo-list [h3]{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+}
+.photo-list [p]{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.sec1-btn2{
+    width: 116px;
+    height: 48px;
+    background: #F4F4FD;
+    border: 1px solid #E7E9FC;
+    border-radius: 4px;
+}
+
+.sec-one-btn-one{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #4d5ae5;
+    cursor: pointer;
+    background-color: #F4F4FD;
+}
+.sec1-btn3{
+    background: #F4F4FD;
+    border: 1px solid #E7E9FC;
+    border-radius: 4px;
+    width: 78px;
+    height: 48px;
+}
+.sec1-btn4{
+    width: 101px;
+    height: 48px;
+    background: #F4F4FD;
+
+    border: 1px solid #E7E9FC;
+    border-radius: 4px;
+}
+.sec1-btn5{
+    width: 126px;
+    height: 48px;
+    background: #F4F4FD;
+
+    border: 1px solid #E7E9FC;
+    border-radius: 4px;
+}
+.sec-one-btn-one:hover,
+.sec-one-btn-one:focus{
+    color: #FFFFFF;
+    background-color: #404BBF;
+}
+.sec1-btn2:hover{
+    background-color: #404BBF;
+}
+.sec1-btn3:hover{
+    background-color: #404BBF;
+}
+.sec1-btn4:hover{
+    background-color: #404BBF;
+}
+.sec1-btn5:hover{
+    background-color: #404BBF;
+}
+.mail{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.mail:hover,
+.mail:focus{
+    color: #404BBF;
+}
+
+:root
+
+.logo{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+
+.link{
+    text-decoration: none
+}
+
+.logo-span{
+    color: #2e2f42;
+}
+
+.list{
+    list-style: none;
+}
+
+.header-list-1{
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    font-size: 16px;
+    line-height: 1.5;
+    font-size: 16px;
+}
+
+.header-list:focus,
+.header-list:hover{
+    color: #404bbf;
+}
+
+.header-adress{
+    font-style: normal;
+}
+
+.header-list{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+
+}
+.adress-1{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.address-list{
+    letter-spacing: 0.02em;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
+    
+}
+.address-list:hover,
+.address-list:focus{
+    color: #404bbf;
+}
+.section{
+    background-color: #2e2f42;
+}
+.section-h{
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+.section-button{
+    background-color: #4D5AE5;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+}
+.section-button:hover,
+.section-button:focus{
+    background-color: #404BBF;
+    cursor: pointer;
+}
+.section-two-list-h{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.section-two-list-p{
+    line-height: 1.5;
+    letter-spacing: 0.02em
+}
+.section-three{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.section-four{
+    background-color: #F4F4FD;
+
+}
+.section-fout-list-one{
+    background-color: #FFFFFF;
+}
+.section-two-list-p{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.hhhh{
+    letter-spacing: 0.02em;
+}
+.index-footer{
+    background-color: #2e2f42;
+}
+.logo-span-two{
+    color:#f4f4fd;
+}
+.address-two{
+    font-style: normal;
+
+}
+.sec-h{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.sec-p{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.portfolio-footer{
+    background-color: #2e2f42;
+}
