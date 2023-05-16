@@ -314,8 +314,14 @@ img{
     gap: 40px;
 }
 .menu-li-one{
-    padding: 24px 0px;
+    padding: 24px 0;
 }
 .sec-two{
-
+    padding: 120px 0;
+}
+.sec-two-list{
+    width: 1128px;
+    height: 104px;
+    left: 156px;
+    top: 792px;
 }
