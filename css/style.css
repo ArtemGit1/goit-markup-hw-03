@@ -312,5 +312,6 @@ img{
     gap: 40px;
 }
 .menu-li-one{
-    padding: 24px 0;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
