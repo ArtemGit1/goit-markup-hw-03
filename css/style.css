@@ -120,7 +120,8 @@ body{
 }
 
 .link{
-    text-decoration: none
+    text-decoration: none;
+    display: inline-block;
 }
 
 .logo-span{
@@ -367,7 +368,7 @@ img{
 }
 .one-footer-index{
     margin-bottom: 16px;
-    display: inline-block;
+    
 }
 .footer-p{
     max-width: 264px;
