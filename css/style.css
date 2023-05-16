@@ -121,7 +121,6 @@ body{
 
 .link{
     text-decoration: none;
-    display: inline-block;
 }
 
 .logo-span{
@@ -333,7 +332,7 @@ img{
     gap: 24px;
 }
 .sec-two-list-li{
-    width: calc((100% - 3 * 24px) / 4);
+    flex-basis: calc((100% - 3 * 24px) / 4);
 }
 .sec-three{
     padding-bottom: 120px;
@@ -368,7 +367,7 @@ img{
 }
 .one-footer-index{
     margin-bottom: 16px;
-    
+    display: inline-block;
 }
 .footer-p{
     max-width: 264px;
