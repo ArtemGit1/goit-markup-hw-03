@@ -42,6 +42,9 @@ body{
     color: #4d5ae5;
     cursor: pointer;
     background-color: #F4F4FD;
+
+    padding: 12px 24px;
+    border: 1px solid #e7e9fc;
 }
 .sec1-btn3{
     background: #F4F4FD;
@@ -70,6 +73,8 @@ body{
 .sec-one-btn-one:focus{
     color: #FFFFFF;
     background-color: #404BBF;
+    border: 1px solid transparent;
+    border: 1px solid transparent;
 }
 .sec1-btn2:hover{
     background-color: #404BBF;
@@ -387,4 +392,13 @@ img{
 .menu-portfolio{
     display: flex;
     gap: 40px;
+}
+.portfolio-main-sec{
+    padding: 96px 0 120px;
+}
+.section-one-button-list{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    margin-bottom: 72px;
 }
