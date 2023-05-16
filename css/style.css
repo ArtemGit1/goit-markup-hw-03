@@ -238,7 +238,7 @@ body{
 }
 .section-four{
     background-color: #F4F4FD;
-
+    padding: 120px 0;
 }
 .section-fout-list-one{
     background-color: #FFFFFF;
@@ -250,6 +250,7 @@ body{
 }
 .hhhh{
     letter-spacing: 0.02em;
+    margin-bottom: 72px;
 }
 .index-footer{
     background-color: #2e2f42;
@@ -341,4 +342,11 @@ img{
 }
 .sec-three-list-li{
     width: calc((100% - 48px) / 3);
+}
+.sec-four-list{
+    display: flex;
+    gap: 24px;
+}
+.section-fout-list-one{
+    border-radius: 0px 0px 4px 4px;
 }
