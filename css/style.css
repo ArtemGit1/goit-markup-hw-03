@@ -332,7 +332,7 @@ img{
     gap: 24px;
 }
 .sec-two-list-li{
-    flex-basis: calc((100% - 72px) / 4);
+    flex-basis: calc((100% - 72px) / 4));
 }
 .sec-three{
     padding-bottom: 120px;
