@@ -161,6 +161,7 @@ body{
 
 .header-adress{
     font-style: normal;
+    margin-left: auto;
 }
 .header-address-list{
     display: flex;
@@ -331,15 +332,7 @@ img{
 }
 .index-header-nav{
     display: flex;
-    flex-direction: row;
     align-items: center;
-    padding: 0px;
-    gap: 40px;
-    
-    width: 261px;
-    height: 24px;
-    left: 347px;
-    top: 24px;
 }
 .header-nav-list{
     display: flex;
@@ -356,7 +349,6 @@ img{
     left: 156px;
     top: 792px;
     display: flex;
-    gap: 24px;
 }
 .sec-two-list-li{
     flex-basis: calc((100% - 3 * 24px) / 4);
