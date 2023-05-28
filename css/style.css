@@ -260,7 +260,6 @@ body{
     line-height: 40px;
     color: #2E2F42;
 
-
     text-align: center;
     letter-spacing: 0.02em;
 }
@@ -354,6 +353,7 @@ img{
 }
 .sec-two-list{
     display: flex;
+    gap: 24px;
 }
 .sec-two-list-li{
     flex-basis: calc((100% - 3 * 24px) / 4);
