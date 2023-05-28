@@ -108,8 +108,6 @@ body{
     color: #404BBF;
 }
 
-
-
 .logo{
     font-family: 'Raleway', sans-serif;
     font-weight: 800;
@@ -144,14 +142,13 @@ body{
     padding: 0;
 }
 
-.header-list-1{
+.header-list-one{
     font-weight: 500;
     letter-spacing: 0.02em;
     font-size: 16px;
     line-height: 1.5;
     font-size: 16px;
     padding: 24px 0;
-
 }
 
 .header-list:focus,
@@ -175,9 +172,8 @@ body{
     letter-spacing: 0.02em;
     color: #2e2f42;
     padding: 24px 0;
-
 }
-.adress-1{
+.adress-one{
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
@@ -187,7 +183,9 @@ body{
     font-size: 16px;
     line-height: 1.5;
     color: #434455;
-    
+    padding-top: 24px;
+    padding-bottom: 24px;
+    display: block;
 }
 .address-list:hover,
 .address-list:focus{
@@ -195,10 +193,6 @@ body{
 }
 .section{
     background-color: #2e2f42;
-    width: 1440px;
-    height: 600px;
-    left: 0px;
-    top: 72px;
     padding: 188px 0;
 }
 .section-h{
@@ -208,6 +202,8 @@ body{
     letter-spacing: 0.02em;
     color: #ffffff;
     max-width: 496px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .section-button{
     background-color: #4D5AE5;
@@ -224,6 +220,8 @@ body{
     border: none;
     border-radius: 4px;
     cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
 }
 .section-button:hover,
 .section-button:focus{
@@ -243,7 +241,6 @@ body{
     letter-spacing: 0.02em
 }
 .visually-hidden{
-position: absolute;
   width: 1px;
   height: 1px;
   margin: -1px;
@@ -254,6 +251,18 @@ position: absolute;
   clip: rect(0 0 0 0);
   overflow: hidden;
     
+}
+.section-three{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    color: #2E2F42;
+
+
+    text-align: center;
+    letter-spacing: 0.02em;
 }
 .section-three-h{
     font-size: 36px;
@@ -344,10 +353,6 @@ img{
     padding: 120px 0;
 }
 .sec-two-list{
-    width: 1128px;
-    height: 104px;
-    left: 156px;
-    top: 792px;
     display: flex;
 }
 .sec-two-list-li{
@@ -390,6 +395,7 @@ img{
 }
 .footer-p{
     max-width: 264px;
+    color: #f4f4fd;
 }
 .header-portfolio{
     border-bottom: 1px solid #e7e9fc;
